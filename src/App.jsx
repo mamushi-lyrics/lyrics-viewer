@@ -69,6 +69,9 @@ export default function App() {
           </pre>
         </>
       )}
+
+      {/* since */}
+      <h2 style={{ textAlign: "right" }}>since 2026.1.3</h2>
     </div>
   );
 }
